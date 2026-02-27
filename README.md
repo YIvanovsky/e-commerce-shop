@@ -33,6 +33,8 @@ and comprehensive order management.
 - **Spring Data JPA** - Database operations
 - **MySQL** - Primary database
 - **Lombok** - Code generation and boilerplate reduction
+### Frontend
+- **React.JS 19.1.1**
 
 ### AI & Vector Storage
 - **Spring AI 1.1.0-M1** - AI integration framework
